@@ -18,4 +18,4 @@ AOS - Animate on scroll library - https://michalsnik.github.io/aos/
 
 # O Projeto
 
-Acesse o site acessando o link https://jaconunes.github.io/
+Acesse o site no link https://jaconunes.github.io/
